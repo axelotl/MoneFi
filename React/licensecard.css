@@ -1,0 +1,29 @@
+.license-card-style {
+    width: 325px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.license-card-img-style {
+    height: 250px;
+    width: 325px
+}
+.license-form-style {
+    margin-left: 30%;
+    margin-top: 10%
+}
+
+.license-form-card-style {
+    width: 700px;
+    height: 450px;
+    align-items: center
+}
+
+.license-form-state-style {
+    margin-top: 50px
+}
+
+.license-form-inputs-style {
+    margin-top: 5%;
+    width: 50%
+}
